@@ -202,3 +202,7 @@ week4/main.rs
 
 local/
 
+.specstory/*
+.env
+.venv
+.cursorindexingignore
